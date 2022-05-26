@@ -1,0 +1,16 @@
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\DIO-TvShows.csproj.AssemblyReference.cache
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\DIO-TvShows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\DIO-TvShows.AssemblyInfoInputs.cache
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\DIO-TvShows.AssemblyInfo.cs
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\DIO-TvShows.csproj.CoreCompileInputs.cache
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\bin\Debug\net5.0\DIO-TvShows.exe
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\bin\Debug\net5.0\DIO-TvShows.deps.json
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\bin\Debug\net5.0\DIO-TvShows.runtimeconfig.json
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\bin\Debug\net5.0\DIO-TvShows.runtimeconfig.dev.json
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\bin\Debug\net5.0\DIO-TvShows.dll
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\bin\Debug\net5.0\DIO-TvShows.pdb
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\DIO-TvShows.dll
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\refint\DIO-TvShows.dll
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\DIO-TvShows.pdb
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\DIO-TvShows.genruntimeconfig.cache
+C:\Users\hgali\source\repos\DIO-TvShows\DIO-TvShows\obj\Debug\net5.0\ref\DIO-TvShows.dll
